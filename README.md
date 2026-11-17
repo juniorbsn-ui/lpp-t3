@@ -4,7 +4,7 @@ Agentes, temos um caso para vocês! Neste trabalho você vai resolver um mistér
 
 ## Como funciona
 
-1. Abra o jogo pelo link: [LINK DO JOGO] (ou baixe o arquivo `agencia-horn-t3.html` deste repositório e abra no navegador).
+1. Abra o jogo pelo link: https://juniorbsn-ui.github.io/lpp-t3/agencia-horn-t3.html (ou baixe o arquivo `agencia-horn-t3.html` deste repositório e abra no navegador).
 2. Digite a sua matrícula. Cada aluno recebe um caso diferente.
 3. Baixe o modelo `caso_SUAMATRICULA.pl`, escreva o código no VS Code e teste no SWI-Prolog.
 4. Cole ou carregue o arquivo no jogo e clique em **▶ Enviar à perícia**. São 7 missões (fatos, consultas, regras, aritmética, recursão, base dinâmica e acusação).
