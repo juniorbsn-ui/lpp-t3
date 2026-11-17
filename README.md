@@ -13,7 +13,7 @@ Agentes, temos um caso para vocês! Neste trabalho você vai resolver um mistér
 
 **Pontuação:** 100 XP (72 XP de código + 28 XP de interrogatórios).
 
-## O que entregar na atividade (até [DATA])
+## O que entregar na atividade (até 25/11)
 
 - `caso_SUAMATRICULA.pl`: o código-fonte completo, com os comentários `% Por quê:` explicando suas regras;
 - `validacao_SUAMATRICULA.txt`: o relatório gerado pelo jogo;
